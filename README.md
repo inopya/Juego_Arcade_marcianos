@@ -1,4 +1,4 @@
-# Arcade_mata_marcianos
+# Arcade marcianitos
 
 Autor: Eulogio López Cayuela
 
