@@ -598,7 +598,7 @@ def CargarDatosNivel():
 pygame.init()
 mainClock = pygame.time.Clock()
 SCREEN = pygame.display.set_mode((ANCHO_PANTALLA, ALTO_PANTALLA))
-pygame.display.set_caption(' - Marcianitos v1.0 - ')
+pygame.display.set_caption(' - Marcianitos v1.2 - ')
 pygame.mouse.set_visible(False)
 
 # Definir tipos de letra
