@@ -851,6 +851,8 @@ while True: # Bucle para el juego. Mientras la partida esté activa
         if contadorMovimientoFondo % pasoMovimientoFondo == 0:
             contadorMovimientoFondo = 0
             fondoy += 1
+            if fondoy > 0:
+                fondoy = -3800            
         SCREEN.blit(imagen_Fondo, (fondox, fondoy))
     else:
         SCREEN.fill(BACKGROUND_COLOR)
