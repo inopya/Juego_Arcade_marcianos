@@ -72,6 +72,7 @@ invencible = False #False  'True' evita ser destruido. Es bastante aburrido :-(
 fondoActivo = True # True
 #----------------------------------------------------------------------
 
+#variables para el control del movimiento del fondo
 fondox = 0
 fondoy = -3800
 contadorMovimientoFondo = 0
